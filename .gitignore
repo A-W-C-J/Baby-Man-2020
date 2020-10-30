@@ -6,7 +6,6 @@
 *.jar
 android/release/*
 android/build
-fastlane/metadata/*
 ## Java
 
 *.class

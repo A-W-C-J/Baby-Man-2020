@@ -15,11 +15,11 @@ Play Trump Game for free! Add your own themes! Contribute! Make the game yours!
 
 ![2theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/2theme.png)
 
-![2theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/3theme.png)
+![3theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/3theme.png)
 
-![2theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/4theme.png)
+![4theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/4theme.png)
 
-![2theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/5theme.png)
+![5theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/5theme.png)
 
 This project is licensed under [GPLv3+](LICENSE).
 
