@@ -15,5 +15,27 @@ Play Trump Game for free! Add your own themes! Contribute! Make the game yours!
 
 [![TrumpGame](https://res.cloudinary.com/marcomontalbano/image/upload/v1604067526/video_to_markdown/images/youtube--0gLm9Tu8660-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0gLm9Tu8660 "TrumpGame")
 
+Building
+--------
+Building the project should be very straight forward:
+
+1. `git clone https://github.com/A-W-C-J/TrumpGame.git`.
+2. `cd TrumpGame`
+3. Now you can choose to either build for `desktop` or `android`:
+   1. For desktop, use `./gradlew desktop:dist`
+   2. For Android, use `./gradlew android:assembleRelease`
+4. You're done! The generated files are under `build`:
+   1. Desktop build is under `desktop/build/libs/*.jar`
+   2. Android build is under `android/build/outputs/apk/*.apk`
+
+Playing
+-------
+If you're on desktop, you should be able to play the game by either double
+clicking the built game `.jar` (Windows) or running `java -jar {file}.jar`.
+
+If you want to play the game on Android, move the built `.apk` to your phone's
+internal memory, find it with an Android file explorer and install it.
+Make sure you have `Unknown sources` (`Settings -> Security`) enabled!
+
 This project is licensed under [GPLv3+](LICENSE).
 
