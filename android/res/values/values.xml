@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="okBtn">#66BB6A</color>
+    <color name="cancelBtb">#DE6656</color>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "name": "Default",
+    "price": "0",
+    "colors": {
+        "background": "f5f5f5ff",
+        "foreground": "ffffffff",
+        "buttons": [
+            "66BB6Aff",
+            "EB8E3Eff",
+            "4090C4ff",
+            "DE6656ff"
+        ],
+        "empty_cell": "e6e6e6ff",
+        "cells": [
+            "7988bfff", "98dc53ff", "4cd4aeff",
+            "fec63dff", "ec9548ff", "e66a82ff", "da6554ff",
+            "57cb84ff", "5abee2ff"
+        ],
+        "current_score": "ffcc00ff",
+        "high_score": "65d681ff",
+        "bonus": "4d4d4dff",
+        "band": "87ceebff",
+        "text": "111111ff"
+    },
+    "cell_texture": "trump.png"
+}

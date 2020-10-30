@@ -1,0 +1,26 @@
+{
+    "name": "Donald",
+    "price": "0",
+        "colors": {
+            "background": "ffffffff",
+            "foreground": "ffffffff",
+            "buttons": [
+                "66BB6Aff",
+                "EB8E3Eff",
+                "4090C4ff",
+                "DE6656ff"
+            ],
+            "empty_cell": "e6e6e6ff",
+            "cells": [
+                "ffa000ff", "ffa000ff", "ffa000ff",
+                "ffa000ff", "ffa000ff", "ffa000ff", "ffa000ff",
+                "ffa000ff", "ffa000ff"
+            ],
+            "current_score": "ffcc00ff",
+            "high_score": "65d681ff",
+            "bonus": "4d4d4dff",
+            "band": "87ceebff",
+            "text": "111111ff"
+        },
+    "cell_texture": "trump.png"
+}
