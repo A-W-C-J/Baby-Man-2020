@@ -27,7 +27,7 @@ Building the project should be very straight forward:
 4. You're done! The generated files are under `build`:
    1. Desktop build is under `desktop/build/libs/*.jar`
    2. Android build is under `android/build/outputs/apk/*.apk`
-
+5. Thx [LonamiWebs](https://github.com/LonamiWebs)
 Playing
 -------
 If you're on desktop, you should be able to play the game by either double
