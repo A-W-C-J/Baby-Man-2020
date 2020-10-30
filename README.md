@@ -9,9 +9,7 @@ Play Trump Game for free! Add your own themes! Contribute! Make the game yours!
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
 "80">](https://play.google.com/store/apps/details?id=com.vision.elimination)
 
-```
-![alt theme](fastlane/metadata/android/en-US/images/phoneScreeshots/1Theme.png)
-```
+
 
 ![1theme](/Users/wenen_dev/Documents/Trumpgame/fastlane/metadata/android/en-US/images/phoneScreenshots/1theme.png)
 
