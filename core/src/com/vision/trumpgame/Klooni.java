@@ -70,7 +70,7 @@ public class Klooni extends Game {
     public static boolean onDesktop;
 
 
-    public static final int GAME_HEIGHT = 680;
+    public static final int GAME_HEIGHT = 960;
     public static final int GAME_WIDTH = 408;
     private static final long SPLASH_MINIMUM_MILLIS = 4000L;
 
